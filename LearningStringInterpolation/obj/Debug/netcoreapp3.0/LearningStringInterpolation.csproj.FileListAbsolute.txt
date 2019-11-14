@@ -1,0 +1,11 @@
+C:\Users\Jason\source\repos\LearningStringInterpolation\LearningStringInterpolation\obj\Debug\netcoreapp3.0\LearningStringInterpolation.csprojAssemblyReference.cache
+C:\Users\Jason\source\repos\LearningStringInterpolation\LearningStringInterpolation\obj\Debug\netcoreapp3.0\LearningStringInterpolation.AssemblyInfoInputs.cache
+C:\Users\Jason\source\repos\LearningStringInterpolation\LearningStringInterpolation\obj\Debug\netcoreapp3.0\LearningStringInterpolation.AssemblyInfo.cs
+C:\Users\Jason\source\repos\LearningStringInterpolation\LearningStringInterpolation\bin\Debug\netcoreapp3.0\LearningStringInterpolation.exe
+C:\Users\Jason\source\repos\LearningStringInterpolation\LearningStringInterpolation\bin\Debug\netcoreapp3.0\LearningStringInterpolation.deps.json
+C:\Users\Jason\source\repos\LearningStringInterpolation\LearningStringInterpolation\bin\Debug\netcoreapp3.0\LearningStringInterpolation.runtimeconfig.json
+C:\Users\Jason\source\repos\LearningStringInterpolation\LearningStringInterpolation\bin\Debug\netcoreapp3.0\LearningStringInterpolation.runtimeconfig.dev.json
+C:\Users\Jason\source\repos\LearningStringInterpolation\LearningStringInterpolation\bin\Debug\netcoreapp3.0\LearningStringInterpolation.dll
+C:\Users\Jason\source\repos\LearningStringInterpolation\LearningStringInterpolation\bin\Debug\netcoreapp3.0\LearningStringInterpolation.pdb
+C:\Users\Jason\source\repos\LearningStringInterpolation\LearningStringInterpolation\obj\Debug\netcoreapp3.0\LearningStringInterpolation.dll
+C:\Users\Jason\source\repos\LearningStringInterpolation\LearningStringInterpolation\obj\Debug\netcoreapp3.0\LearningStringInterpolation.pdb
